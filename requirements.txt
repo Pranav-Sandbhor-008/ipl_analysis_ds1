@@ -1,0 +1,28 @@
+pandas
+numpy
+fastapi
+uvicorn
+streamlit
+requests
+plotly
+pydantic
+
+IPL-Analytics/
+│
+├── backend/
+│   ├── main.py
+│   ├── data_loader.py
+│   └── analysis.py
+│
+├── frontend/
+│   └── app.py
+│
+├── data/
+│   ├── matches.csv
+│   └── deliveries.csv
+│
+├── requirements.txt
+└── README.md
+
+pip install -r requirements.txt
+
